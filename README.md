@@ -12,6 +12,7 @@ Provides fast, reliable and extensible starter for the development of Angular 2 
 
 `angular2-seed` provides the following features:
 
+- Uses the new angular router 3.
 - Allows you to painlessly update the seed tasks of your already existing project.
 - Out of the box ServiceWorkers and AppCache support thanks to the integration with [angular/mobile-toolkit](https://github.com/angular/mobile-toolkit).
 - Ready to go, statically typed build system using gulp for working with TypeScript.
