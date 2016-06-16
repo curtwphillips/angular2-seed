@@ -96,6 +96,8 @@ Visit the [Wiki page](https://github.com/mgechev/angular2-seed/wiki) of the proj
 
 # Running tests
 
+The tests will be updated once angular releases routing test providers.
+
 ```bash
 npm test
 
