@@ -303,7 +303,7 @@ export class SeedConfig {
       '@angular/common': `${this.APP_BASE}node_modules/@angular/common/common.umd.js`,
       '@angular/compiler': `${this.APP_BASE}node_modules/@angular/compiler/compiler.umd.js`,
       '@angular/http': `${this.APP_BASE}node_modules/@angular/http/http.umd.js`,
-      '@angular/router': `${this.APP_BASE}node_modules/@angular/router/router.umd.js`,
+      '@angular/router': `${this.APP_BASE}node_modules/@angular/router/index.js`,
       '@angular/platform-browser': `${this.APP_BASE}node_modules/@angular/platform-browser/platform-browser.umd.js`,
       '@angular/platform-browser-dynamic': `${this.APP_BASE}node_modules/@angular/platform-browser-dynamic/platform-browser-dynamic.umd.js`,
       'rxjs/*': `${this.APP_BASE}node_modules/rxjs/*`,
